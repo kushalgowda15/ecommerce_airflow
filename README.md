@@ -286,4 +286,3 @@ This project is intended for educational and research purposes.
 **Kushal Gowda**
 
 - GitHub: https://github.com/kushalgowda15
-- LinkedIn: *(Add your LinkedIn profile here)*
